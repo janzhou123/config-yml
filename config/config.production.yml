@@ -1,0 +1,7 @@
+db:
+  mysql1:
+    dbName: mysql1-prod1
+    dbPwd: pwd-prod1
+  mysql2:
+    dbName: mysql1-prod2
+    dbPwd: pwd-prod2

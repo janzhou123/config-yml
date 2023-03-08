@@ -1,0 +1,11 @@
+db:
+  mysql1:
+    dbType: mysql
+    dbUrl: http://localhost
+    dbPort: 3306
+    dbUser: root
+  mysql2:
+    dbType: mysql
+    dbUrl: http://localhost
+    dbPort: 3306
+    dbUser: root
